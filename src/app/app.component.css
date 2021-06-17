@@ -1,0 +1,25 @@
+figure {
+    display: inline-block;
+    border: 1px rgb(5, 0, 0);
+    margin: 0px; /* adjust as needed */
+}
+figure img {
+    vertical-align:text-top;
+
+    top:0;
+    left:0;
+}
+figure figcaption {
+    
+    text-align: center;
+}
+.hb{
+    background-color:rgba(189, 173, 160, 0.336);
+    border: 2px rgb(5, 0, 0);
+    list-style-type: square;
+    margin: 0px;
+}
+h1{
+    font-size: 39px;
+    
+}
